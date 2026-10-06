@@ -1,0 +1,60 @@
+================================================================================
+     SALES PERFORMANCE ANALYTICS DASHBOARD — EXECUTIVE BUSINESS INSIGHTS
+================================================================================
+Generated Date: Dynamic Calculation from clean_sales_data.csv
+Analysis Period: 2023 - 2024 (24 Months)
+
+1. EXECUTIVE KPI OVERVIEW
+--------------------------------------------------
+• Total Gross Sales Revenue : $4,959,614.26
+• Total Net Profit          : $959,336.25
+• Overall Profit Margin     : 19.34%
+• Total Unique Orders       : 5,150
+• Average Order Value (AOV) : $963.03
+
+2. REGIONAL PERFORMANCE INSIGHTS
+--------------------------------------------------
+• Best Performing Region (Revenue) : North ($1,295,782.61 sales, $249,058.59 profit, 19.22% margin)
+• Lowest Revenue Region           : South ($1,209,679.51 sales)
+• Region with Lowest Profit Margin : East (19.02% margin)
+
+3. CATEGORY & PRODUCT MARGIN ANALYSIS
+--------------------------------------------------
+• Highest Revenue Category       : Technology ($3,171,977.19, 64.0% share)
+• Most Profitable Category       : Technology (24.30% margin, $770,817.60 profit)
+• Lowest Margin Category         : Furniture (9.29% margin)
+• Top Single Revenue Product     : Canon ImageRUNNER Advance Copier ($810,509.30)
+• Top Single Profit Product      : Canon ImageRUNNER Advance Copier ($200,140.88)
+
+  [ALERT: DISCOUNT TRAP PRODUCTS - HIGH REVENUE BUT LOW PROFIT MARGIN]
+   - Product: Conference Room Modular Table | Sales: $415,607.50 | Profit: $20,063.49 | Margin: 4.83% | Avg Disc: 6.6%
+   - Product: Motorized Standing Electric Desk | Sales: $344,410.00 | Profit: $26,160.27 | Margin: 7.60% | Avg Disc: 7.1%
+   - Product: Modern Oak Veneer Cabinet Bookcase | Sales: $181,067.00 | Profit: $15,493.35 | Margin: 8.56% | Avg Disc: 6.2%
+   - Product: 5-Tier Industrial Metal & Wood Bookshelf | Sales: $98,615.00 | Profit: $5,597.76 | Margin: 5.68% | Avg Disc: 7.0%
+   - Product: Mid-Back Swivel Office Chair | Sales: $64,746.00 | Profit: $6,557.32 | Margin: 10.13% | Avg Disc: 7.0%
+
+4. CUSTOMER SEGMENT & DEMOGRAPHICS
+--------------------------------------------------
+• Highest Value Customer Segment : Consumer ($2,527,202.37 revenue, 51.0% market share)
+   - Consumer: $2,527,202.37 sales | AOV: $3,299.22 | Profit Margin: 19.67%
+   - Corporate: $1,483,672.90 sales | AOV: $2,355.04 | Profit Margin: 19.04%
+   - Small Business: $948,738.99 sales | AOV: $1,863.93 | Profit Margin: 18.94%
+
+5. SEASONALITY & TIMELINE TRENDS
+--------------------------------------------------
+• Peak Sales Month               : 2024-01 ($248,436.92 revenue)
+• Lowest Sales Month             : 2024-06 ($149,117.87 revenue)
+
+6. ORDER FULFILLMENT & REVENUE LOSS
+--------------------------------------------------
+• Completed Orders Rate          : 85.8% (4,419 orders)
+• Cancelled Orders Impact        : 8.9% (458 orders, $519,765.31 lost revenue)
+• Returned Orders Impact         : 5.3% (273 orders, $301,573.01 lost revenue)
+
+7. STRATEGIC RECOMMENDATIONS FOR MANAGEMENT
+--------------------------------------------------
+ 1. Cap Discounts on Furniture: The Furniture category is experiencing compressed margins (9.29%). Restrict max discount to 15%.
+ 2. Expand High-Margin Technology Sales: Technology generates 24.30% margin and should be emphasized in cross-selling campaigns to Corporate buyers.
+ 3. Address Order Cancellations & Returns: Combined cancellations and returns represent $821,338.32 in lost opportunity. Optimize inventory availability and logistics.
+ 4. Target Consumer Segment Growth: Consumer segment represents the highest total revenue volume ($2,527,202.37). Introduce loyalty rewards for high-AOV customers.
+================================================================================
